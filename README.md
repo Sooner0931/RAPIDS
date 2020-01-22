@@ -1,2 +1,2 @@
 # RAPIDS
-E2E_GPU_Accelerated_DataScience
+E2E GPU-Accelerated-DataScience for the next decade, this is the future.
